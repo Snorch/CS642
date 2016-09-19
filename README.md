@@ -40,7 +40,10 @@ Short cheat sheet:
 
 #### Нужные пакеты
 
+Fedora:
 
+    sudo dnf install -y python3-numpy python3-matplotlib # lab2
+    sudo dnf install -y python3-tkinter # lab3
 
 ### On windows
 
