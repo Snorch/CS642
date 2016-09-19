@@ -46,6 +46,17 @@ Short cheat sheet:
 
 #### Standard python IDE: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
 
+## Proxy на паре:
+
+Настраиваем прокси в браузер отсюда:
+
+    firefox http://10.55.163.167/
+
+Чтобы работал Git на паре, в том числе и в PyCharm:
+
+    export http_proxy=http://10.55.163.167:34735/
+    export https_proxy=http://10.55.163.167:34735/
+
 ## Other:
 
 Чтобы разобраться в командной строке Linux и не только читаем(перевод) ["Основы Linux от основателя Gentoo"](linux-basics.md)
